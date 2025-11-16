@@ -141,13 +141,6 @@ commuter/
 
 ---
 
-## 🔒 Environment Variables & Security
-
-* `.env` added to `.gitignore`
-* Never commit API keys to GitHub
-* Regenerate keys if leaked
-* Frontend `.env` should only store URLs, not secrets
-
 
 ## 🚀 Future Enhancements
 
